@@ -1,0 +1,7 @@
+D:\Lavanta Apart Projesi\Lavanta Apart Uygulaması V.1\obj\Debug\Lavanta Apart Uygulaması V.1.csproj.AssemblyReference.cache
+D:\Lavanta Apart Projesi\Lavanta Apart Uygulaması V.1\obj\Debug\Lavanta_Apart_Uygulaması_V._1.Admingirisfrm.resources
+D:\Lavanta Apart Projesi\Lavanta Apart Uygulaması V.1\obj\Debug\Lavanta_Apart_Uygulaması_V._1.Properties.Resources.resources
+D:\Lavanta Apart Projesi\Lavanta Apart Uygulaması V.1\obj\Debug\Lavanta Apart Uygulaması V.1.csproj.GenerateResource.cache
+D:\Lavanta Apart Projesi\Lavanta Apart Uygulaması V.1\obj\Debug\Lavanta Apart Uygulaması V.1.csproj.CoreCompileInputs.cache
+D:\Lavanta Apart Projesi\Lavanta Apart Uygulaması V.1\obj\Debug\Lavanta_Apart_Uygulaması_V._1.frmadmingiris.resources
+D:\Lavanta Apart Projesi\Lavanta Apart Uygulaması V.1\obj\Debug\Lavanta_Apart_Uygulaması_V._1.frmyenimusteri.resources
